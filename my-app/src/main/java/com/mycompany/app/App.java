@@ -8,5 +8,6 @@ public class App {
         System.out.println("Hello CHANDU WORLD !");
 	System.out.println("Hello CHANDU ! "); 
 	System.out.println("Welcome to GIT HUB");
+	System.out.println("New line added");
     }
 }
