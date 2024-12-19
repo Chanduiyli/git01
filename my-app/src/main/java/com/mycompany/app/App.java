@@ -8,6 +8,6 @@ public class App {
         System.out.println("Hello WORLD !");
 	System.out.println("Hai CHANDU ! "); 
 	System.out.println("Welcome to GIT HUB");
-	System.out.println("New line added");
+	System.out.println("New command line added");
     }
 }
