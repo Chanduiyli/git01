@@ -1,7 +1,6 @@
 package com.mycompany.app;
 
 /**
-<<<<<<< HEAD
  * Hello chandu iyli  world!
  * 
  */
