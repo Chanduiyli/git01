@@ -6,9 +6,7 @@ package com.mycompany.app;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-	System.out.println("Hello iyli");
-	System.out.println("Hello chandu");
+        System.out.println("Hello  newyork");
 
     }
 }
