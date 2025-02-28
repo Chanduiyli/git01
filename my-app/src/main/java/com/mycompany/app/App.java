@@ -10,7 +10,7 @@ public class App {
         System.out.println("Hello  new_york!!!");
         System.out.println("Hello chandra shekar!");
 	System.out.println("Hello iyli");
-	System.out.println(" New line added");
+
 
     }
 }
