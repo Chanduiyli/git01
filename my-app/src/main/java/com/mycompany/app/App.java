@@ -7,8 +7,8 @@ package com.mycompany.app;
 public class App {
     public static void main(String[] args) {
 
-        System.out.println("Hello England!");
-        System.out.println(" Hello UK ");
+        System.out.println("Hello India !");
+        System.out.println(" Hello USA ");
 
 
     }
